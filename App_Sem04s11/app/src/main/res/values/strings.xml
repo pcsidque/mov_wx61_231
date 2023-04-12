@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Sem04-s1-1</string>
+    <string name="procesar">Procesar txt</string>
+    <string name="texto">Ingrese un e-mail</string>
+</resources>
