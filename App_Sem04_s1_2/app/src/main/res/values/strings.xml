@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Sem04_s1_2</string>
+    <string name="question">¿Es LIMA capital de CHILE?</string>
+    <string name="siguiente">siguiente</string>
+    <string name="falso">Falso</string>
+    <string name="verd">Verdadero</string>
+</resources>
